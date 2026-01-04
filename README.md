@@ -206,3 +206,8 @@ Edge AI on ESP32
 Cloud dashboards and alerts
 
 Remaining Useful Life (RUL) estimation
+
+# Note
+The robotic arm and control system were successfully implemented and validated mechanically and electrically.
+
+However, during integration, reliable multi-sensor data acquisition faced timing and synchronization challenges, which prevented the formation of a stable dataset required for ML model training within the project timeline.
