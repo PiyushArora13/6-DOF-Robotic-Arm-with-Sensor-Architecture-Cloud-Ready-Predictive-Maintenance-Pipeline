@@ -152,10 +152,15 @@ Advanced models (future): LSTM, TinyML
 # Experimental Status
 # Component	Status
 Mechanical motion =	Working
+
 Motor control	= Stable
+
 Sensor data acquisition	= Unstable
+
 ML model training	= Not completed
+
 Cloud integration	= Planned
+
 # Challenges Faced
 
 Sensor noise and EMI
