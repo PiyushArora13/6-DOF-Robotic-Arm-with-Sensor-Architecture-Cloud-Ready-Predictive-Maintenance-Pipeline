@@ -1,0 +1,1 @@
+# 6-DOF-Robotic-Arm-with-Sensor-Architecture-Cloud-Ready-Predictive-Maintenance-Pipeline
