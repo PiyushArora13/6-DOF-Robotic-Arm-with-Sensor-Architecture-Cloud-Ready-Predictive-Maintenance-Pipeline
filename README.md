@@ -47,8 +47,11 @@ Sensor-friendly mechanical design
 
 # Sensor Architecture
 Sensor Type	Placement	Purpose
+
 Vibration Sensor	= Each joint	Detect wear, imbalance, misalignment
+
 Temperature Sensor	= Each joint	Monitor thermal stress
+
 Current Sensor	= Power source	Detect overload and motor anomalies
 
 # Hardware Architecture
